@@ -2,4 +2,5 @@
 Personal Website
 
 Update: 4/18/2025
-  Working on getting the images to display properly. 
+  This website was created in 2021 when i started my web development journey.
+  I need to work on formatting it correctly for mobile devices. 
