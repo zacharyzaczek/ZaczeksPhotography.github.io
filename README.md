@@ -2,5 +2,7 @@
 Personal Website
 
 Update: 4/18/2025
-  This website was created in 2021, when i started my web development journey.
-  I need to work on formatting it correctly for mobile devices. 
+  This site was created in 2021, and I've progressed since then in HTML, CSS, and JavaScript. 
+  I'm currently working on moble viewing and other configurations. 
+  However, the site is up and running..
+
